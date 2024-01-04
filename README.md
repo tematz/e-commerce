@@ -57,4 +57,6 @@ Contributions are welcome! If you have any ideas for improvement or encounter an
 
 This project is licensed under the MIT License
 
+---
+
 Happy coding! 🚀
