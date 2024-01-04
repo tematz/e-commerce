@@ -55,6 +55,6 @@ Contributions are welcome! If you have any ideas for improvement or encounter an
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License
 
 Happy coding! 🚀
