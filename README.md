@@ -45,7 +45,7 @@ Welcome to the E-commerce project! This project utilizes a variety of technologi
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/tematz/e-commerce.git`
+1. Clone the repository: `git clone https://github.com/your-username/e-commerce.git`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm run dev`
 
